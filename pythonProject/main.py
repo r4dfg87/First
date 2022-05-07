@@ -32,5 +32,5 @@ class linkedList:
 
 ll = linkedList()
 ll.insert("3")
-ll.insert("9")
+ll.insert("8")
 ll.printLinkedList()
